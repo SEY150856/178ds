@@ -1,0 +1,32 @@
+
+.user_cont.data-v-137d5072 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	box-sizing: border-box;
+}
+.user.data-v-137d5072 {
+	width: 95%;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: #fff;
+	border-radius: 15rpx;
+	margin-top: 50rpx;
+	padding: 50rpx 0;
+}
+.user_name.data-v-137d5072 {
+	width: 95%;
+	margin: 20rpx 0;
+	font-size: 28rpx;
+}
+.beizhu.data-v-137d5072 {
+	text-align: center;
+	font-size: 24rpx;
+	color: #878787;
+	margin: 30rpx;
+}
+

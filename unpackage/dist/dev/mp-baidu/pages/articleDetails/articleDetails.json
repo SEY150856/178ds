@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "资讯",
+  "component": true,
+  "usingComponents": {
+    "mp-html": "/uni_modules/mp-html/components/mp-html/mp-html"
+  }
+}

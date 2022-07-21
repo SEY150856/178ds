@@ -1,0 +1,16 @@
+
+.pages{
+	width: 98%;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.title {
+	font-size: 36rpx;
+	font-weight: bold;
+	margin: 15rpx 0;
+}
+.beizhu{
+	margin-bottom: 30rpx;
+	font-size: 24rpx;
+}
+

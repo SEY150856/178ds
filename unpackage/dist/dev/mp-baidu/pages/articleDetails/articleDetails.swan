@@ -1,0 +1,1 @@
+<view class="pages"><view><view class="title">{{''+content.title+''}}</view><view class="beizhu"><text>{{content.author}}</text><text>{{content.updatetime}}</text></view><view class="img"><image style="width:100%;" src="{{content.image}}" mode="widthFix"></image></view></view><mp-html vue-id="263ff05e-1" content="{{content.content}}"></mp-html></view>

@@ -1,0 +1,1 @@
+<view><u-swiper vue-id="6a8d8e15-1" loading="{{loading}}" list="{{bannerList}}" indicator="{{true}}" indicatorMode="line" circular="{{true}}"></u-swiper></view>

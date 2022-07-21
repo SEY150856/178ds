@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "component": true,
+  "usingComponents": {
+    "index-seach": "/components/indexSeach/indexSeach",
+    "indexbanner": "/components/indexbanner/indexbanner",
+    "graphic": "/components/graphic/graphic",
+    "newlist": "/components/newlist/newlist"
+  }
+}

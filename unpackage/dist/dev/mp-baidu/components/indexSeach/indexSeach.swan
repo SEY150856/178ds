@@ -1,0 +1,1 @@
+<view class="pages_search"><u-search bind:input="__e" vue-id="9329b75a-1" placeholder="查询热点!" value="{{keyword}}" data-event-opts="{{[['^input',[['__set_model',['','keyword','$event',[]]]]]]}}"></u-search></view>

@@ -1,0 +1,26 @@
+
+.grahic.data-v-fc3e5454{
+	width: 95%;
+	margin: 30rpx auto;
+	background-color: #fff;
+	border-radius: 15rpx;
+	box-sizing: border-box;
+	padding: 15rpx 5rpx 10rpx 5rpx;
+}
+.recommendation.data-v-fc3e5454 {
+	text-align: center;
+	margin: 30rpx auto;
+	color: hsl(30, 100%, 50%);
+}
+.swiperimg.data-v-fc3e5454 {
+	font-size: 30rpx;
+	color: #3b3b3b;
+}
+swiper-item image.data-v-fc3e5454 {
+	width: 100%;
+}
+swiper-item.data-v-fc3e5454 {
+	box-sizing: border-box;
+	padding: 5rpx;
+}
+
