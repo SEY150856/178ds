@@ -13,7 +13,7 @@ export default {
 	},
 
 	getJson(name) {
-		const content = uni.getStorageSync(name);
+		const content = uni.getStorageSync(name); 
 		if (!content) {
 			return null;
 		}

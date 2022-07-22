@@ -1,11 +1,14 @@
 {
-  "appid": "26079789",
-  "appInfo": {},
-  "appkey": "",
-  "condition": {},
-  "setting": {
-    "urlCheck": false
-  },
-  "libVersion": "",
-  "projectname": "178dx"
+    "appInfo": {},
+    "appid": "26079789",
+    "appkey": "",
+    "condition": {},
+    "libVersion": "",
+    "preview": {
+        "packageId": 834269
+    },
+    "projectname": "178dx",
+    "setting": {
+        "urlCheck": false
+    }
 }

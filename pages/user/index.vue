@@ -21,10 +21,10 @@
 		<view class="beizhu">
 			登录小程序，可参与互动评论、点赞、收藏、转发
 		</view>
-		<view class="card-area">
+<!-- 		<view class="card-area">
 			<button type="primary" class="middle-btn" open-type="getPhoneNumber"
 				@getphonenumber="getPhoneNumber">获取用户手机号</button>
-		</view>
+		</view> -->
 	</view>
 </template>
 

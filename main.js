@@ -6,8 +6,10 @@ import * as utils from './utils/utils' // 工具文件
 import * as http from './utils/http' // http请求接口
 import storage from '@/storage' // 缓存文件
 import config from '@/config' // 配置
+import store from './store' // vuex，不需要的可以自行删除
 import uView from '@/uni_modules/uview-ui'
 Vue.use(uView)
+Vue.prototype.$store = store
 Vue.prototype.$storage = storage
 Vue.prototype.$http = http
 Vue.prototype.$utils = utils
